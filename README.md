@@ -1,4 +1,6 @@
-README
+# Library
+A Java program that stores library references (as entered by a user) and allows user to search the library. 
+
 
 This is program that creates library acquisitions based on user input and then allows the user 
 to search using a key phrase/year/call number
