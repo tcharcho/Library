@@ -1,4 +1,5 @@
 README
+
 This is program that creates library acquisitions based on user input and then allows the user 
 to search using a key phrase/year/call number
 The program implements a GUI
@@ -16,6 +17,7 @@ User Guide
 
 
 TEST PLAN
+
 Text Fields
 - title/keyword is not case sensitive (i.e. JAVA = JaVA = java etc.)
 - does not crash when an incorrect value is entered (lets user know what they did wrong)
