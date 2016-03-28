@@ -8,6 +8,7 @@ The program implements a GUI
 
 Assumptions
 - user will know the data for all the acquisitions
+- a file by the name of "output.txt" is present in the project folder
  
 
 Limitations
